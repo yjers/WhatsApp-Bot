@@ -1,0 +1,19 @@
+# Node modules
+/node_modules/
+
+# WhatsApp auth & cache data
+/.wwebjs_auth/
+/.wwebjs_cache/
+
+# npm lock file (opcional ignorarlo, pero generalmente se versiona)
+/package-lock.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env files
+.env
+
+# MacOS
+.DS_Store
