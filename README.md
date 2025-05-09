@@ -1,6 +1,6 @@
 # WhatsApp Bot
 
-Este proyecto es un **bot de WhatsApp** que escucha los mensajes de un grupo específico y los reenvía a otro grupo de WhatsApp. Utiliza la librería [whatsapp-web.js](https://github.com/mukulhase/WebWhatsapp-Wrapper) y está diseñado para ser fácil de configurar y ejecutar.
+Este proyecto es un **bot de WhatsApp** que escucha los mensajes de un grupo específico y los reenvía a otro grupo de WhatsApp. Utiliza la librería [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js/) y está diseñado para ser fácil de configurar y ejecutar.
 
 ## Requisitos
 
